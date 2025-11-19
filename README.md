@@ -1,6 +1,21 @@
 # Cibra Calculator - Contact Page
 
-Una página de contacto moderna y responsive para Cibra Calculator, construida con React.
+Una página de contacto moderna y responsive para Cibra Calculator.
+
+## 🚀 Inicio Rápido
+
+### Opción 1: Versión Standalone (Sin instalación)
+**¿Quieres usarlo YA?** Abre `standalone/contact.html` en tu navegador. ¡Listo! No necesitas instalar nada.
+
+👉 **[Ver instrucciones de la versión standalone](standalone/README.md)**
+
+### Opción 2: Versión React (Desarrollo)
+Si quieres personalizar o integrar con React:
+
+```bash
+npm install
+npm start
+```
 
 ## Características
 

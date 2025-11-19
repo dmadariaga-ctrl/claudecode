@@ -20,7 +20,7 @@ const Contact = () => {
   };
 
   const validatePhone = (phone) => {
-    const re = /^[\d\s\-\+\(\)]+$/;
+    const re = /^[\d\s\-+()]+$/;
     return phone === '' || re.test(phone);
   };
 
